@@ -1,3 +1,2 @@
-### ChatGPT_API: prompt engineering demos and guidelines, building systems with API
-
+### ChatGPT_API: prompt engineering demos and guidelines, use of langchain
 ### LLMs: incoming
