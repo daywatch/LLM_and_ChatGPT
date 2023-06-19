@@ -24,7 +24,7 @@ Fine-tune LLMs with Hugging Face, Tensorboard, and DeepSpeed (multiple GPU clust
 Hugging Face Disaggregator (for q quick demographic analysis) and evaluate (for toxicity), gender expression generation, and SHAP (for interpretability, i.e., token-level contribution for the final generated output)
 
 ## LM6
-MLOps of a sample model with mlFlow \
+MLOps of a sample model with mlFlow 
 
 Also, I included two fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
