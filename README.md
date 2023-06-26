@@ -26,9 +26,10 @@ Hugging Face Disaggregator (for q quick demographic analysis) and evaluate (for 
 ## LM6
 MLOps of a sample model with mlFlow 
 
-Also, I included two fine-tuning practices:
+Also, I included thre fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
 - [use deepspeed to tune mpt model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_instruction_LLM_with_deepspeed.ipynb)
+- [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)
 
  
 ## *ChatGPT_API*
