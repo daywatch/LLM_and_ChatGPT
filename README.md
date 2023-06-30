@@ -1,5 +1,5 @@
-*Skills and projects covered in LLM and ChatGPT folders*: \
-## *Large Language Models: Application through Production*
+*Skills and projects covered in LLM and ChatGPT folders*:
+## *Large Language Models: Application through Production (EdX)*
 
 ## LM1
 Use Hugging Face datasets and large models; set up tokenizer config
@@ -30,6 +30,10 @@ Also, I included two fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
 - [use deepspeed to tune mpt model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_instruction_LLM_with_deepspeed.ipynb)
 
+## *Generative AI and Large Language Models (Coursera)*
+### Lab1: prompt-engineering
+### Lab2: fine-tune with LoRA
+### Lab3: reinforcement learning with human feedback (**RLHF-PPO & KL**)
  
 ## *ChatGPT_API*
 - prompt engineering demos and guideline
