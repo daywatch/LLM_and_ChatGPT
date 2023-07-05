@@ -26,26 +26,26 @@ Fine-tune LLMs with Hugging Face, Tensorboard, and DeepSpeed (multiple GPU clust
 Hugging Face Disaggregator (for q quick demographic analysis) and evaluate (for toxicity), gender expression generation, and SHAP (for interpretability, i.e., token-level contribution for the final generated output)
 
 ## LM6
-MLOps of a sample model with mlFlow \
+MLOps of a sample model with mlFlow 
 
-Also, I included thre fine-tuning practices:
+## Section 2: my fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
 - [use deepspeed to tune mpt model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_instruction_LLM_with_deepspeed.ipynb)
 - [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)
 <br>
 
-## Section 2: *Generative AI and Large Language Models (Coursera)*
+## Section 3: *Generative AI and Large Language Models (Coursera)*
 ### Lab1: prompt-engineering
 ### Lab2: fine-tune with LoRA
 ### Lab3: reinforcement learning with human feedback (**RLHF-PPO & KL**) 
 <br>
 
-## Section 3: *ChatGPT_API and prompt dev*
+## Section 4: *ChatGPT_API and prompt dev*
 - prompt engineering demos and guideline
 - use of langchain, including prompt management, external agents, and evaluation tools
 <br>
 
-## Other resources
+### Other resources
 Debugging tools \
 	1.[Weights & Biases](https://wandb.ai/site/prompts) \
 	2.[Galileo](https://www.rungalileo.io/llm-studio/#join-waitlist) \
