@@ -25,29 +25,25 @@ Fine-tune LLMs with Hugging Face, Tensorboard, and DeepSpeed (multiple GPU clust
 Hugging Face Disaggregator (for q quick demographic analysis) and evaluate (for toxicity), gender expression generation, and SHAP (for interpretability, i.e., token-level contribution for the final generated output)
 
 ## LM6
-MLOps of a sample model with mlFlow 
-\
-\
+MLOps of a sample model with mlFlow \
+
+
 
 Also, I included thre fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
 - [use deepspeed to tune mpt model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_instruction_LLM_with_deepspeed.ipynb)
-- [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)
+- [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)\
 
-\
-\
 
 ## *Generative AI and Large Language Models (Coursera)*
 ### Lab1: prompt-engineering
 ### Lab2: fine-tune with LoRA
-### Lab3: reinforcement learning with human feedback (**RLHF-PPO & KL**)
-\
-\
+### Lab3: reinforcement learning with human feedback (**RLHF-PPO & KL**) \
+
 ## *ChatGPT_API*
 - prompt engineering demos and guideline
-- use of langchain, including prompt management, external agents, and evaluation tools
-\
-\
+- use of langchain, including prompt management, external agents, and evaluation tools \
+
 ## Other resources
 Debugging tools \
 	1.[Weights & Biases](https://wandb.ai/site/prompts) \
@@ -57,9 +53,8 @@ Debugging tools \
 	5.[LangChain Visualizer](https://github.com/amosjyng/langchain-visualizer) \
 	6.LLM-debugging papers \
 	[Explainable Automated Debugging via Large Language Model-driven Scientific Debugging](https://arxiv.org/abs/2304.02195) \
-	[Teach LLMs to do self-debugging](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2304.05128.pdf)
-\
-\
+	[Teach LLMs to do self-debugging](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2304.05128.pdf) \
+
 More about fine-tuning \
   1.[eight major methods for fine-tuning LLMs](https://dr-bruce-cottman.medium.com/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee)
 
