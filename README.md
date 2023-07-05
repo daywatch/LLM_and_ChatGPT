@@ -1,5 +1,5 @@
 *Skills and projects covered in LLM and ChatGPT folders*:
-\
+
 ## *Large Language Models: Application through Production (EdX)*
 
 ## LM1
@@ -25,14 +25,14 @@ Fine-tune LLMs with Hugging Face, Tensorboard, and DeepSpeed (multiple GPU clust
 Hugging Face Disaggregator (for q quick demographic analysis) and evaluate (for toxicity), gender expression generation, and SHAP (for interpretability, i.e., token-level contribution for the final generated output)
 
 ## LM6
-MLOps of a sample model with mlFlow \
+MLOps of a sample model with mlFlow
 
-
+\
 
 Also, I included thre fine-tuning practices:
 - [use QLoRa and hf PEFT to tune GPT-neo model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_GPT_neo_with_QLoRa_and_PEFT.ipynb)
 - [use deepspeed to tune mpt model](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/Fine_tuning_instruction_LLM_with_deepspeed.ipynb)
-- [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)\
+- [use XTurning on LLaMA 7b](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/fine_tuning_LLaMA7b_lora_int8.ipynb)
 
 
 ## *Generative AI and Large Language Models (Coursera)*
@@ -42,7 +42,8 @@ Also, I included thre fine-tuning practices:
 
 ## *ChatGPT_API*
 - prompt engineering demos and guideline
-- use of langchain, including prompt management, external agents, and evaluation tools \
+- use of langchain, including prompt management, external agents, and evaluation tools
+\
 
 ## Other resources
 Debugging tools \
