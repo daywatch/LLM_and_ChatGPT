@@ -40,9 +40,10 @@ MLOps of a sample model with mlFlow
 ### Lab3: reinforcement learning with human feedback (**RLHF-PPO & KL**) 
 <br>
 
-## Section 4: *ChatGPT_API and prompt dev*
+## Section 4: *openai_api_ and prompt dev*
 - prompt engineering demos and guideline
 - use of langchain, including prompt management, external agents, and evaluation tools
+- fine-tuning service on chatgpt with generated data from gpt4
 <br>
 
 ### Other resources
