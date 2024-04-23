@@ -43,14 +43,14 @@ MLOps of a sample model with mlFlow
 ## Section 4: *openai_api_ and prompt dev*
 - prompt engineering demos and guideline
 - use of langchain, including prompt management, external agents, and evaluation tools
-- fine-tuning service on chatgpt with generated data from gpt4
+- **fine-tuning service on chatgpt with generated data from gpt4**
 <br>
 
-## Section 5: *Foundation Models from the Ground Up*
-- [transformer algorithm in torch]
-- [fine-tuning with LORA and PEFT]
-- [fine-tuning with prompt-tuning and PEFT]
-- [quantization and deploylment]
+## Section 5: *Foundation Models from the Ground Up (EdX)*
+- [transformer algorithm in torch] (https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2001L%20-%20Transformer%20Architecture%20Lab.ipynb)
+- [fine-tuning with LORA and PEFT](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2002L%20-%20LoRA%20with%20PEFT.ipynb)
+- [fine-tuning with prompt-tuning and PEFT](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2002%20-%20Prompt%20Tuning%20with%20PEFT.ipynb)
+- [quantization and deploylment](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2003%20-%20Deployment%20of%20LLMs.ipynb)
 
 ### Other resources
 Debugging tools \
