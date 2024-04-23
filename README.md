@@ -46,6 +46,12 @@ MLOps of a sample model with mlFlow
 - fine-tuning service on chatgpt with generated data from gpt4
 <br>
 
+## Section 5: *Foundation Models from the Ground Up*
+- [transformer algorithm in torch]
+- [fine-tuning with LORA and PEFT]
+- [fine-tuning with prompt-tuning and PEFT]
+- [quantization and deploylment]
+
 ### Other resources
 Debugging tools \
 	1.[Weights & Biases](https://wandb.ai/site/prompts) \
