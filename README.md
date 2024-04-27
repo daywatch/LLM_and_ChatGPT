@@ -52,22 +52,14 @@ MLOps of a sample model with mlFlow
 - [fine-tuning with prompt-tuning and PEFT](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2002%20-%20Prompt%20Tuning%20with%20PEFT.ipynb)
 - [quantization and deploylment](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2003%20-%20Deployment%20of%20LLMs.ipynb)
 
-### Other resources
-Debugging tools \
-	1.[Weights & Biases](https://wandb.ai/site/prompts) \
-	2.[Galileo](https://www.rungalileo.io/llm-studio/#join-waitlist) \
-	3.[Allen NLP's LM tool](https://github.com/mega002/lm-debugger) \
-	4.[Aim for LangChain](https://dev.to/tatyana/langchain-aim-building-and-debugging-ai-systems-made-easy-1bk0) \
-	5.[LangChain Visualizer](https://github.com/amosjyng/langchain-visualizer) \
-	6.LLM-debugging papers \
-	[Explainable Automated Debugging via Large Language Model-driven Scientific Debugging](https://arxiv.org/abs/2304.02195) \
-	[Teach LLMs to do self-debugging](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2304.05128.pdf) 
+## Section 6: * Apply LLMOps using VetexAI(DeepLearningAI - GCP)*
+[course notes](https://docs.google.com/document/d/1XGCWNAYrCKaxr6WF5YshBOhWf5r272hZjJtZ_soNGug/edit?usp=sharing)
+- L2: data ingestion using SQL and storage on GCP
+- L3: use kubeflow for automation orchestratian + fine-tuning on vetexAI with QLoRA
+- L4: make predictions and pull out metrics on safety scores, such as harassment and severity
+
+### other resources
+A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics
 
 <br>
-
-More about fine-tuning \
-  1.[eight major methods for fine-tuning LLMs](https://dr-bruce-cottman.medium.com/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee)
-
 	
-
-
