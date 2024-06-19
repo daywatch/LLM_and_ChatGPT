@@ -47,6 +47,7 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 - [prompt engineering demos and guideline](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/openai_api/chatgpt_prompt_engineering_guideline.ipynb)
 - [use of langchain, including prompt management, external agents, and evaluation tools](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/openai_api/langchain_chatgpt.ipynb)
 - [**fine-tuning service on chatgpt with generated data from gpt4**](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/openai_api/fine-tuning%20chatgpt%20with%20gpt4%20generated%20data.ipynb)
+- [A tutotial of AutoGen, a multi-agent LLM package](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/openai_api/autogen)
 <br>
 
 ## Section 5: *Foundation Models from the Ground Up (EdX)*
