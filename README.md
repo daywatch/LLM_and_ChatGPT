@@ -65,11 +65,11 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 <br>
 
 ## Section 7: *Azure AI APIs*
-This section includes several cases of using Azure AI services, including Azure OpenAI, AI Studio, Speech (TTS & STT), AI Search, Storage, Vision, Language Service (translation, sentiment analysis, lang detection, intent & entity)
+This section includes several cases of Azure AI services, including Azure OpenAI, AI Studio, Speech (TTS & STT), AI Search, Document Intelligence, Storage, Vision, Language Service (translation, sentiment analysis, lang detection, intent & entity)
 
 ### other resources
 - A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP), including latest model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
-- [Fine-tuning huggingface LLMs on AWS SageMaker] (https://github.com/huggingface/notebooks/blob/main/sagemaker/01_getting_started_pytorch/sagemaker-notebook.ipynb)
+- [Fine-tuning huggingface LLMs on AWS SageMaker](https://github.com/huggingface/notebooks/blob/main/sagemaker/01_getting_started_pytorch/sagemaker-notebook.ipynb)
 - [Fine_tuning huggingface LLMs within azureml](https://balabala76.medium.com/azure-machine-learning-fine-tuning-large-language-models-q-a-and-summarization-comparing-various-2cb8b9a1681)
 <br>
 	
