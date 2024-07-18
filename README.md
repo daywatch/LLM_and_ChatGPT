@@ -64,6 +64,9 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 - [L4: make predictions and pull out metrics on safety scores, such as harassment and severity](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/vertexAI_LLMOps/vertexAI_L4_predictions_prompts_safety.ipynb)
 <br>
 
+## Section 7: *Azure AI APIs*
+This section includes several cases of using Azure AI services, including Azure OpenAI, AI Studio, Speech, AI Search, Blob, Computer Vision, 
+
 ### other resources
 A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP), including latest model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
 
