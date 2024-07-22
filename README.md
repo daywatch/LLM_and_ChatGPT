@@ -64,11 +64,11 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 - [L4: make predictions and pull out metrics on safety scores, such as harassment and severity](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/vertexAI_LLMOps/vertexAI_L4_predictions_prompts_safety.ipynb)
 <br>
 
-## Section 7: *Azure AI APIs*
+## Section 7: *[Azure AI APIs](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/azure_AI_APIs)*
 This section includes several cases of Azure AI services, including Azure OpenAI, AI Studio, Speech (TTS & STT), AI Search, Document Intelligence, Storage, Vision, Language Service (translation, sentiment analysis, lang detection, intent & entity), and Semantic Kernel (similar to LangChain)
 <br>
 
-## Section 8: *Evaluate with Langfuse*
+## Section 8: *[Evaluate with Langfuse](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/langfuse_eval)*
 Iterative development is crucial for LLM apps. I use a platform called Langfuse, similar to W&B and MLFlow. The code includes setting up Llama3 on Groq, logs, prompts, and datasets for LLM monitoring and improvement. 
 <br>
 
