@@ -1,0 +1,1 @@
+Prompt engineering is a very robust field. Here is a practical [worksheet](https://docs.google.com/spreadsheets/d/1VW0yJ5-ljgCLnvMP8X5yRPLF2jytymBcgLKz-GQAepk/edit?usp=sharing) I made to evaluate prompt types for a use case.
