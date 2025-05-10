@@ -76,8 +76,12 @@ Iterative development is crucial for LLM apps. I use a platform called Langfuse,
 Fine-tuning codes on using LLAMA3-8B generated classifcation data on a BigBird (a BERT-level model) and metrics report
 <br>
 
+## Section 	10: *[Databricks LLMOps](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/Databricks)*
+Fine-tuning a LLaMA3 model and use streamlit to deploy a RAG (with LLM endpoints)
+<br>
+
 ### other resources
-- A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP), including latest model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
+- A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP), including model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
 - [Fine-tuning huggingface LLMs on AWS SageMaker](https://github.com/huggingface/notebooks/blob/main/sagemaker/01_getting_started_pytorch/sagemaker-notebook.ipynb)
 - [Fine_tuning huggingface LLMs within azureML](https://balabala76.medium.com/azure-machine-learning-fine-tuning-large-language-models-q-a-and-summarization-comparing-various-2cb8b9a1681)
 <br>
