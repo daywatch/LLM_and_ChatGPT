@@ -1,0 +1,100 @@
+Course notes:
+How to use Claude Desktop with MCP
+
+1.terminal
+ls
+uv init #initialize proj
+uv venv
+souce .venv/bin/activate #activate venv
+uv arxiv mcp #pip/uv dependencies
+
+2.on claude
+(1)settings > developer > edit config
+(2)in claude_desktop_config.json, add example json:
+# make sure to change a real path for server-filesystem
+
+{
+    "mcpServers": {
+        
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "."
+            ]
+        },
+        
+        "research": {
+            "command": "uv",
+            "args": ["run", "research_server.py"]
+        },
+        
+        "fetch": {
+            "command": "uvx",
+            "args": ["mcp-server-fetch"]
+        }
+    }
+}
+
+(3) in the claude interface, check whether the servers are added as tools
+
+(4) the apps with feature support
+https://modelcontextprotocol.info/docs/clients/
+
+
+How to use remote server connection?
+
+(1)in the terminal: npx @modelcontextprotocol/inspector
+then y to install libraries
+(2)then click  https://s172-29-102-208p6274.lab-aws-production.deeplearning.ai/ 🚀 to get the inspector
+(3)on the inspector, choose SSE ; use url https://s172-9-102-208p8001.lab-aws-production.deeplearning.ai/sse and
+inspector proxy address like https://s172-29-102-208p627.lab-aws-production.deeplearning.ai
+then connect
+(4)you can inspect the MCP parameters
+
+How to set up local connect?
+See in notebook L4 in this folder.
+
+How to use Render to deploy the server? 
+
+On terminal, cd to the mcp folder:
+(1)git init 
+(2)echo ".venv" > .gitignore
+(3)git status
+(4)render doesn't support uv, so use pip:
+uv pip compile pyproject.toml > requirements.txt
+(5)echo "python-3.11.11" > runtime.txt
+(6)git status #check the runtime
+(7)git add .
+(8)git commit -m "ready for deployment"
+(9)create a new repo on github and push in an existing repo from the cml
+git remote add origin
+git branch -M main
+git push -u origin main
+git remote -v #check the push
+(10)sign up on render.com; choose "Deploy a web service" and add the repo link
+THE ONLY THING to change is at "Start Command":
+python research_server.py
+Then deploy
+(11)check the sse link:
+remote-research.onrender/sse
+if there is a session id, it means pass
+
+
+Other topics on MCP:
+1.Authentications
+2.Roots and samplings:
+root - a uri that a client suggests a server should operate. for example, a user may say "Only look in these specific folders for the files I need"
+sampling - allows a sever to request inference from the LLM they are connected to via MCP, given the user application full control over sucurity, privacy, and cost; a server should talk to LLM to diagnose errors and issues (or even ask for more info from uers)
+3.Can different MCPs talk to each other? Can servers to be LLMs?
+An orchestritian or manager server?
+4.An official MCP registery API
+
+
+
+
+
+
+
+
