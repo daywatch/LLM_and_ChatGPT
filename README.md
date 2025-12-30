@@ -57,12 +57,20 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 - [quantization and deploylment](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/LLMs_course_and_practice/LLM2%2003%20-%20Deployment%20of%20LLMs.ipynb)
 <br>
 
-## Section 6: *Apply LLMOps using VetexAI(DeepLearningAI - GCP)*
+## Section 6: GCP & Vertex AI
+
+*Apply LLMOps using VetexAI(DeepLearningAI - GCP)*
+<br>
 [course notes](https://docs.google.com/document/d/1XGCWNAYrCKaxr6WF5YshBOhWf5r272hZjJtZ_soNGug/edit?usp=sharing)
 - [L2: data ingestion using SQL and storage on GCP](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/vertexAI_LLMOps/vertexAI_L2_dataipynb)
 - [L3: use kubeflow for automation orchestratian + fine-tuning on vetexAI with QLoRA](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/vertexAI_LLMOps/vertexAI_L3_automation.ipynb)
 - [L4: make predictions and pull out metrics on safety scores, such as harassment and severity](https://github.com/daywatch/LLM_and_ChatGPT/blob/main/vertexAI_LLMOps/vertexAI_L4_predictions_prompts_safety.ipynb)
 <br>
+GCP update 1/2026:  Udemy GCP Vertex AI | Google AI & ML | Agentic AI (ADK)| MCP | A2A <br>
+
+- [Course notes](https://docs.google.com/document/d/17MYDvFHKBHEGUcBAZ-S-mpOHs7Urg6XAfCltsiVOxlQ/edit?usp=sharing), featuring approaches of training and deploying ML models, vertex AI services, and  Google Agent Development Toolkit
+- Codes on using ADK, such as agent tooling, multi-agent designs, Google MCP toolbox, and Agent2Agent Protocol (A2A)
+
 
 ## Section 7: *[Azure AI APIs](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/azure_AI_APIs)*
 This section includes several cases of Azure AI services, including Azure OpenAI, AI Studio, Speech (TTS & STT), AI Search, Document Intelligence, Storage, Vision, Language Service (translation, sentiment analysis, lang detection, intent & entity), and Semantic Kernel (similar to LangChain)
@@ -89,7 +97,7 @@ LLM and automation tools finally meet! This section includes flows on using LLM 
 <br>
 
 ### other resources
-- A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP), including model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
+- A sample of my [reserach links](https://docs.google.com/document/d/1v62l0hC4MBPpnCHBsVGJ8Tr3KzCCpMx23fIqmA8hTak/edit?usp=sharing) on LLM topics working as an Applied Scientist (NLP) at Arkestro, including model update, prompt engineering, practice on fine-tuning and alignment, literatures, and downstream tasks and so on
 - [Fine-tuning huggingface LLMs on AWS SageMaker](https://github.com/huggingface/notebooks/blob/main/sagemaker/01_getting_started_pytorch/sagemaker-notebook.ipynb)
 - [Fine_tuning huggingface LLMs within azureML](https://balabala76.medium.com/azure-machine-learning-fine-tuning-large-language-models-q-a-and-summarization-comparing-various-2cb8b9a1681)
 <br>
