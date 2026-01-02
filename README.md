@@ -69,7 +69,7 @@ MLOps of a sample model with MLFlow, focusing on model registeration, versioning
 GCP update 1/2026:  Udemy GCP Vertex AI | Google AI & ML | Agentic AI (ADK)| MCP | A2A <br>
 
 - [Course notes](https://docs.google.com/document/d/17MYDvFHKBHEGUcBAZ-S-mpOHs7Urg6XAfCltsiVOxlQ/edit?usp=sharing), featuring approaches of training and deploying ML models, vertex AI services, and  Google Agent Development Toolkit
-- Codes on using ADK, such as agent tooling, multi-agent designs, Google MCP toolbox, and Agent2Agent Protocol (A2A)
+- [Codes](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/vertexAI_LLMOps/ADK) on using ADK, such as agent tooling, multi-agent designs, MCP, callbacks, and Agent2Agent Protocol (A2A)
 
 
 ## Section 7: *[Azure AI APIs](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/azure_AI_APIs)*
