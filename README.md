@@ -86,6 +86,8 @@ Fine-tuning codes on using LLAMA3-8B generated classifcation data on a BigBird (
 
 ## Section 	10: *[Databricks LLMOps](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/Databricks)*
 Fine-tuning a LLaMA3 model and use streamlit to deploy a RAG (with LLM endpoints)
+<br> 
+Databricks [ML note](https://docs.google.com/document/d/1UK-DJwGBHNDWZ-_JtE93jQhOibNA6obNmcYQxE7oAGg/edit?usp=sharing)
 <br>
 
 ## Section 	11: *[Model Context Protocol](https://github.com/daywatch/LLM_and_ChatGPT/tree/main/MCP)*
